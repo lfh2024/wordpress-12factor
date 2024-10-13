@@ -32,5 +32,6 @@
 		"bucketeer",
 		"sendgrid"
 	],
-	"image": "heroku/php"
+	"image": "heroku/php",
+	"stack": "heroku-20"
 }
